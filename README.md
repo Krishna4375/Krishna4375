@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi, I'm Vedant 👋</b></h1>
 
 <p align="center">
-I am a student from India 🇮🇳, currently pursuing my Bachelor's degree in Information Technology at Bharati Vidyapeeth College. I'm passionate about Linux, development, and building utility tools that make life easier. I’ve recently started exploring open-source contributions.
+  I'm currently pursuing my Bachelor's degree in Information Technology at Bharati Vidyapeeth College 🎓. I enjoy learning new things 📚 and exploring the world of tech 💡. I'm passionate about both frontend 🎨 and backend 🔧 development, and I love building useful, real-world applications 💻
 </p>
 <p align="center">
 Fascinated by infinite space. Occupy Mars! 🚀
