@@ -4,7 +4,7 @@
   I'm currently pursuing my Bachelor's degree in Information Technology at Bharati Vidyapeeth College 🎓. I enjoy learning new things 📚 and exploring the world of tech 💡. I'm passionate about both frontend 🎨 and backend 🔧 development, and I love building useful, real-world applications 💻
 </p>
 <p align="center">
-Fascinated by infinite space. Occupy Mars! 🚀
+ Let’s build something awesome! ⚙️✨🚀
 </p>
 
 ---
