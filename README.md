@@ -54,10 +54,5 @@ Bharati Vidyapeeth College of Engineering, India
 
 ---
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yourgithub.visitor-badge)
-
-</div>
-
----
 
 ⭐️ From [Vedant](https://github.com/Krishna4375)
