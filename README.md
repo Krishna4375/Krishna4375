@@ -50,7 +50,7 @@ Bharati Vidyapeeth College of Engineering, India
 [![LinkedIn: Vedant](https://img.shields.io/badge/-Vedant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-profile)](https://www.linkedin.com/in/vedant-garje-291956356/?originalSubdomain=in)  
 <a href="https://www.instagram.com/accounts/login/?next=%2Fvedant_garje_4%2F&source=omni_redirect" target="_blank"><img src="https://img.shields.io/badge/@yourhandle-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>  
 
-[![GitHub: Vedant](https://img.shields.io/github/followers/yourgithub?label=yourgithub&style=social)](https://github.com/yourgithub)
+[![GitHub: Vedant](https://img.shields.io/github/followers/yourgithub?label=yourgithub&style=social)](https://github.com/Krishna4375/Krishna4375)
 
 ---
 
