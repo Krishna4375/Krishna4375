@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi, I'm Vedant 👋</b></h1>
+<h1 align="center"><b>Hi, I'm Vedant Garje 👋</b></h1>
 
 <p align="center">
   I'm currently pursuing my Bachelor's degree in Information Technology at Bharati Vidyapeeth College 🎓. I enjoy learning new things 📚 and exploring the world of tech 💡. I'm passionate about both frontend 🎨 and backend 🔧 development, and I love building useful, real-world applications 💻
